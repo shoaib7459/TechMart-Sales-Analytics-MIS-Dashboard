@@ -28,6 +28,8 @@
 
 TechMart Sales Analytics is a data-driven MIS project that consolidates **500+ orders**, **500 customers**, **500 products**, and **50 sales representatives** into a single unified analytics system. The project is designed to help business managers track performance, identify growth opportunities, and make informed decisions.
 
+![TechMart-Sales-Analytics-MIS-Dashboard](./dashboard_preview.png)
+
 | Metric | Value |
 |--------|-------|
 | 💰 Total Net Sales | ₹4.22 Crore |
