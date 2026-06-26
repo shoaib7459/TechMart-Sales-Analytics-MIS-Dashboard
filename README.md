@@ -234,10 +234,6 @@ This project showcases the following skills relevant for **Data Analyst / Busine
 
 🔗 https://www.linkedin.com/in/shoaib-alam74/
 
-**[Shoaib Alam]**
-📧 [shoaibalam7459@gmail.com]
-🔗 [https://www.linkedin.com/in/shoaib-alam74/]
-
 ---
 
 > ⭐ *If you found this project useful, please give it a star!*
