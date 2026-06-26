@@ -206,23 +206,7 @@ TechMart-Sales-Analytics/
 1. Open `TechMart_Sales_Analytics.xlsx` in Microsoft Excel
 2. Navigate through the sheets: `customers`, `orders`, `products`, `sales_reps`
 3. Use pivot tables and filters to explore insights
-
-### Option 2 — Analyze with Python
-```python
-import pandas as pd
-
-# Load datasets
-orders    = pd.read_csv('data/orders.csv')
-customers = pd.read_csv('data/customers.csv')
-products  = pd.read_csv('data/products.csv')
-sales_reps = pd.read_csv('data/sales_reps.csv')
-
-# Quick summary
-print(f"Total Revenue: ₹{orders['NetSales'].sum():,.2f}")
-print(f"Total Profit:  ₹{orders['Profit'].sum():,.2f}")
-print(f"Total Orders:  {len(orders)}")
-```
-
+   
 ---
 
 ## 💼 Skills Demonstrated
@@ -237,16 +221,14 @@ This project showcases the following skills relevant for **Data Analyst / Busine
 - ✅ **Regional Analysis** — Multi-region sales breakdown across India
 - ✅ **Excel MIS Reporting** — Professional pivot tables, charts, and dashboards
 - ✅ **Data Cleaning** — Handling missing values, date formatting, type normalization
-- ✅ **Python / Pandas** — Programmatic data processing and analysis
 
 ---
 
 ## 👤 Author
 
-**[Your Name]**
-📧 [your.email@gmail.com]
-🔗 [LinkedIn Profile URL]
-💻 [GitHub Profile URL]
+**Shoaib Alam**
+📧 shoaibalam7459@gmail.com
+🔗 https://www.linkedin.com/in/shoaib-alam74/
 
 ---
 
