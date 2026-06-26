@@ -1,8 +1,6 @@
 # 📊 TechMart Sales Analytics — MIS Dashboard
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Sales%20Analytics-orange?style=for-the-badge)
 
